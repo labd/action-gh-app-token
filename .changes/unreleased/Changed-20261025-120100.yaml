@@ -1,0 +1,3 @@
+kind: Changed
+body: 'Breaking: run the action on the node24 runtime (Node 20 is EOL); package engines now require Node >= 24'
+time: 2026-10-25T12:01:00.000000+01:00

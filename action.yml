@@ -15,5 +15,5 @@ outputs:
   app-token:
     description: obtained gh app token
 runs:
-  using: node20
+  using: node24
   main: action/index.js
